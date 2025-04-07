@@ -79,6 +79,8 @@ const ProductDetails = () => {
             </div>
           </div>
         </div>
+        {/* You may also like this. */}
+        {/* code here */}
       </div>
     </div>
   );
